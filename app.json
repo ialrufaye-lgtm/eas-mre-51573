@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "mre-app",
+    "slug": "mre-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "bundleIdentifier": "com.test.mreapp"
+    },
+    "android": {
+      "package": "com.test.mreapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9bdcde7c-672a-4091-994c-455043a626f2"
+      }
+    },
+    "owner": "alrufaye"
+  }
+}
